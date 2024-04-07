@@ -1,0 +1,16 @@
+2024-04-07 15:14:16,162 INFO [dump] add formal task. groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b
+
+2024-04-07 15:14:16,236 INFO [dump] process formal task. groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b
+
+2024-04-07 15:14:16,259 INFO [dump] md5 changed, save to disk cache ,groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b, newMd5=f4a4caa6c6028b819fbddc3b9e1dd05b,oldMd5=
+
+2024-04-07 15:14:16,259 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b, newMd5=f4a4caa6c6028b819fbddc3b9e1dd05b,oldMd5=,lastModifiedTs=1712474056142
+
+2024-04-07 15:16:54,913 INFO [dump] add formal task. groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b
+
+2024-04-07 15:16:54,937 INFO [dump] process formal task. groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b
+
+2024-04-07 15:16:54,938 INFO [dump] md5 changed, save to disk cache ,groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b, newMd5=5920e3a2af4d2152a95c0296075bf622,oldMd5=f4a4caa6c6028b819fbddc3b9e1dd05b
+
+2024-04-07 15:16:54,938 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=tiger-web-test.properties+DEFAULT_GROUP+6695a085-9728-41b9-a58f-e3e72530708b, newMd5=5920e3a2af4d2152a95c0296075bf622,oldMd5=f4a4caa6c6028b819fbddc3b9e1dd05b,lastModifiedTs=1712474214874
+

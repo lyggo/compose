@@ -1,0 +1,84 @@
+2024-04-07 14:43:12,967 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-04-07 14:43:12,967 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-04-07 14:43:12,967 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-04-07 14:43:12,967 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-04-07 14:43:13,826 INFO Load instance extension handler []
+
+2024-04-07 14:55:04,473 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2024-04-07 14:55:04,482 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2024-04-07 14:55:15,675 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2024-04-07 14:55:15,675 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2024-04-07 14:55:15,675 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2024-04-07 14:55:15,675 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2024-04-07 14:55:16,395 INFO Load instance extension handler []
+
+2024-04-07 15:12:36,182 INFO Client connection 1712473956177_172.30.42.127_59877 connect
+
+2024-04-07 15:12:39,802 INFO Client connection 1712473956177_172.30.42.127_59877 disconnect, remove instances and subscribers
+
+2024-04-07 15:12:39,803 INFO Client connection 1712473951651_172.30.42.127_59876 disconnect, remove instances and subscribers
+
+2024-04-07 15:14:34,654 INFO Client connection 1712474074647_172.30.42.127_60044 connect
+
+2024-04-07 15:14:38,261 INFO Client connection 1712474071491_172.30.42.127_60043 disconnect, remove instances and subscribers
+
+2024-04-07 15:14:38,262 INFO Client connection 1712474074647_172.30.42.127_60044 disconnect, remove instances and subscribers
+
+2024-04-07 15:17:38,764 INFO Client connection 1712474258759_172.30.42.127_60262 connect
+
+2024-04-07 15:17:42,367 INFO Client connection 1712474258759_172.30.42.127_60262 disconnect, remove instances and subscribers
+
+2024-04-07 15:17:42,368 INFO Client connection 1712474255377_172.30.42.127_60261 disconnect, remove instances and subscribers
+
+2024-04-07 15:23:53,697 INFO Client connection 1712474633690_172.30.42.127_60714 connect
+
+2024-04-07 15:23:57,327 INFO Client connection 1712474630413_172.30.42.127_60713 disconnect, remove instances and subscribers
+
+2024-04-07 15:23:57,328 INFO Client connection 1712474633690_172.30.42.127_60714 disconnect, remove instances and subscribers
+
+2024-04-07 15:29:20,447 INFO Client connection 1712474960443_172.30.42.127_62173 connect
+
+2024-04-07 15:30:59,768 INFO Client connection 1712474956317_172.30.42.127_62168 disconnect, remove instances and subscribers
+
+2024-04-07 15:30:59,768 INFO Client connection 1712474960443_172.30.42.127_62173 disconnect, remove instances and subscribers
+
+2024-04-07 15:36:25,814 INFO Client connection 1712475385810_172.30.42.127_62541 connect
+
+2024-04-07 15:38:14,669 INFO Client connection 1712475385810_172.30.42.127_62541 disconnect, remove instances and subscribers
+
+2024-04-07 15:38:14,669 INFO Client connection 1712475381602_172.30.42.127_62534 disconnect, remove instances and subscribers
+
+2024-04-07 15:38:42,932 INFO Client connection 1712475522928_172.30.42.127_62889 connect
+
+2024-04-07 15:40:23,308 INFO Client change for service Service{namespace='6695a085-9728-41b9-a58f-e3e72530708b', group='DEFAULT_GROUP', name='tiger-web', ephemeral=true, revision=0}, 1712475522928_172.30.42.127_62889
+
+2024-04-07 15:41:11,000 INFO Client remove for service Service{namespace='6695a085-9728-41b9-a58f-e3e72530708b', group='DEFAULT_GROUP', name='tiger-web', ephemeral=true, revision=1}, 1712475522928_172.30.42.127_62889
+
+2024-04-07 15:41:18,394 INFO Client connection 1712475522928_172.30.42.127_62889 disconnect, remove instances and subscribers
+
+2024-04-07 15:41:18,394 INFO Client connection 1712475518950_172.30.42.127_62882 disconnect, remove instances and subscribers
+
+2024-04-07 15:41:30,655 INFO Client connection 1712475690650_172.30.42.127_63572 connect
+
+2024-04-07 15:42:46,396 WARN namespace : 6695a085-9728-41b9-a58f-e3e72530708b, [DEFAULT_GROUP@@tiger-web] services are automatically cleaned
+
+2024-04-07 15:43:11,723 INFO Client change for service Service{namespace='6695a085-9728-41b9-a58f-e3e72530708b', group='DEFAULT_GROUP', name='tiger-web', ephemeral=true, revision=0}, 1712475690650_172.30.42.127_63572
+
+2024-04-07 16:15:27,280 INFO Client remove for service Service{namespace='6695a085-9728-41b9-a58f-e3e72530708b', group='DEFAULT_GROUP', name='tiger-web', ephemeral=true, revision=1}, 1712475690650_172.30.42.127_63572
+
+2024-04-07 16:15:32,081 INFO Client connection 1712475686769_172.30.42.127_63565 disconnect, remove instances and subscribers
+
+2024-04-07 16:15:32,081 INFO Client connection 1712475690650_172.30.42.127_63572 disconnect, remove instances and subscribers
+
+2024-04-07 16:16:46,586 WARN namespace : 6695a085-9728-41b9-a58f-e3e72530708b, [DEFAULT_GROUP@@tiger-web] services are automatically cleaned
+
